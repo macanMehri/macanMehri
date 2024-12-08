@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Macan Mehri</h1>
 <h3 align="center">Backend developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/62817f9b3b2282d9aaa89cef538f3eb288b9fff1a1ff79c0edbb958bf4d75de9/68747470733a2f2f6d617274696e76616c64612e636f6d2f696d672f61626f75742e676966">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3CGwVqeBu9Mee4sy_QwT4n&ust=1733756055494000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJjgq-G2mIoDFQAAAAAdAAAAABAE">
 
 - 🌱 I’m currently learning **Django**
 
