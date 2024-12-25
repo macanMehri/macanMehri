@@ -5,8 +5,6 @@
 
 - 🌱 **Django** Developer
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=macanmehri" alt="macanmehri" /></a> </p>
-
 - 📫 How to reach me **macanmehri@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
